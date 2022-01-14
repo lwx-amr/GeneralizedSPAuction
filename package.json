@@ -1,0 +1,9 @@
+{
+  "name": "generalized_second_price_auction",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {}
+}
