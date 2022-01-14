@@ -27,9 +27,9 @@ const extractBid = (line) => {
 // Read items count from user
 const readCount = ()=>{
   return new Promise((resolve)=>{
-      readline.question('Please enter pet counts: ', (answer) => {
+    readline.question('Please enter pet counts: ', (answer) => {
       resolve(answer);
-      });
+    });
   })
 }
 
